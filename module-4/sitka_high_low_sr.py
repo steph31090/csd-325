@@ -1,3 +1,10 @@
+# Stephanie Ramos
+# June 15, 2025
+# Module 4.2 Assignment
+# High\Low Temperatures
+
+# The purpose of this code change is to update to allow user selection of high or low temperatures and loop until exit.
+
 import csv
 from datetime import datetime
 import sys
